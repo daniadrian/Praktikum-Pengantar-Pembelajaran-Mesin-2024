@@ -1,4 +1,4 @@
-# Praktikum-Pengantar-Pembelajaran-Mesin-2024\
+# Praktikum-Pengantar-Pembelajaran-Mesin-2024
 
  Repositori ini berisi modul laboratorium Pengantar Pembelajaran Mesin 2023 untuk Teknik Informatika, Fakultas Ilmu Komputer (FILKOM), Universitas Brawijaya.
 
